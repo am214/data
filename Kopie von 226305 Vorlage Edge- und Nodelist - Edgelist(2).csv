@@ -1,0 +1,12 @@
+from,to,weight,relationship
+lorelai,rory,2,1
+lorelai,lane,2,2
+lorelai,emily,1,1
+lorelai,dean,1,2
+rory,lane,2,2
+rory,dean,2,3
+luke,rory,2,2
+luke,dean,1,2
+luke,lorelai,2,3
+emily,rory,2,1
+emily,luke,1,2
